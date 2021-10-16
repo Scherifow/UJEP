@@ -1,0 +1,19 @@
+Úvod About ME:
+
+Podmínky zápočtu
+Pravidla učebny
+Co je já chci učit?
+Co oni se chtějí naučit?
+
+Ukázat databáze:
+
+DB lite show jak vypadá databáze
+AirTable zkuste si udělat databázi a knížky autoři propojení mezi němi
+
+Endora:
+Instalace wordpress na web a můžete si zkusit udělat webovku a nainstalovat Wordpress
+
+Formuláře MS forms a Google Forms:
+ukázat dají se tam dělat testy a kvízy
+
+Co je to CSV a kde seženu jěkajý CSV data viz EUROstat a Český statistický úřad.
