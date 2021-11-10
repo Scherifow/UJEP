@@ -9,5 +9,4 @@ Viz obrázek, tak abychom mohli vytvořit tenhle obrázek, tak data by měli vyp
 
 
 
-3) Vytvoření treemap jako na [finviz](https://finviz.com/map.ashx) 
-Použijeme data Stocks.csv
+3) Vytvoření treemap jako na [finviz](https://finviz.com/map.ashx) - použijeme data Stocks.csv
