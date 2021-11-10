@@ -26,7 +26,7 @@ Hodnocení bude potřeba očistit, aby to bylo číslo, a mohli jsme to vizualiz
 
 #### Small intro do databází:
 K čemu jsou, jak vypadají, využití.  
-2) Připojit data pomocí API přes airtable, kde použít asset tracker in startup category.
+2) Připojit data pomocí API přes [airtable](https://airtable.com/), kde použít asset tracker in startup category.
 
 
 ### Cyber-Security
