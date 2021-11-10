@@ -3,12 +3,20 @@
 
 1) Opáčko udělejte bar chart race z dat (GDPEurope-BarChartRace.xlsx)
 
+### Jednoduchá věc na začátek:
 
-2) Vytvoření liniového grafu Line Chart
+2) Vytvoření treemap jako na [finviz](https://finviz.com/map.ashx) - použijeme data Stocks.csv
+
+### Transformace dat:
+
+1) Upravíme si data tak, aby měli lepší význam.
+Použijeme data: citibike-tripdata1.csv a změnime pohlaví z 1 a 2 na Muž a Žena. Také C-zákazník a S-předplatitel.
+
+) Vytvoření liniového grafu Line Chart
 Viz obrázek, tak abychom mohli vytvořit tenhle obrázek, tak data by měli vypadat jako druhý obrázek.
 
 
-3) Vytvoření treemap jako na [finviz](https://finviz.com/map.ashx) - použijeme data Stocks.csv
+
 
 
 4) Pro vytvoření scater plot využije WEB conector. A data stáhneme přímo z internetu. K tomu potřebujeme nějakou URL adresu.
