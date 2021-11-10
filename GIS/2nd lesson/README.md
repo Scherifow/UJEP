@@ -25,7 +25,7 @@ My využijeme tuto URL adresu: https://www.amazon.com/s?k=air+fryer&crid=1K4VQP9
 Hodnocení bude potřeba očistit, aby to bylo číslo, a mohli jsme to vizualizovat.
 
 #### Small intro do databází:
-K čemu jsou, jak vypadají, využití.
+K čemu jsou, jak vypadají, využití.  
 2) Připojit data pomocí API přes airtable, kde použít asset tracker in startup category.
 
 
