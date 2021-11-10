@@ -13,5 +13,4 @@ Viz obrázek, tak abychom mohli vytvořit tenhle obrázek, tak data by měli vyp
 
 
 4) Pro vytvoření scater plot využije REST API. A data stáhneme přímo z internetu. K tomu potřebujeme nějakou URL adresu.
-My využijeme tuto URL adresu: https://www.amazon.com/s?i=specialty-aps&bbn=16225009011&rh=n%3A%2116225009011%2Cn%3A667846011&ref=nav_em__nav_desktop_sa_intl_home_audio_0_2_5_9
-``
+My využijeme tuto URL adresu: https://www.amazon.com/s?k=air+fryer&crid=1K4VQP9FMFZ5P&sprefix=air+f%2Caps%2C287&ref=nb_sb_ss_ts-doa-p_2_5
