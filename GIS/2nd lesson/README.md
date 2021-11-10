@@ -16,7 +16,7 @@ Viz obrázek, tak abychom mohli vytvořit tenhle obrázek, tak data by měli vyp
 
 
 ### Pauzička pak a dáme Tinder Chart:
-Hra jsou data pravý match pro graf?``
+Hra jsou data pravý match pro graf?
 
 ### Zkouška webových konektorů: 
 
