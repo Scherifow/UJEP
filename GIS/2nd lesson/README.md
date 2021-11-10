@@ -1,7 +1,7 @@
 # Druhá lekce GIS
 
 
-1)
+1) Opáčko udělejte bar chart race z dat (GDPEurope-BarChartRace.xlsx)
 
 
 2) Vytvoření liniového grafu Line Chart
