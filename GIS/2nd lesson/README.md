@@ -31,3 +31,4 @@ K čemu jsou, jak vypadají, využití.
 
 ### Cyber-Security
 Hesla v prohlížeči, data co na sebe sdílím, jak fungují některé útoku...
+Generátor hesel slabých hesel - https://weakpass.com/generate
